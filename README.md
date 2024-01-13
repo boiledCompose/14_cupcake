@@ -156,8 +156,6 @@ context.startActivity(
 )
 ```
 
-<h3></h3>
-
 
 
 
