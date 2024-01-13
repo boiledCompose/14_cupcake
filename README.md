@@ -22,8 +22,10 @@ Composable이거나 Composable 그룹**이다.
 
 <h3>NavHost 추가<h3>
 
-<src img="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-navigation/img/fae7688d6dd53de9.png?hl=ko" width=500 height=500/>
+<p align="center">
 
+<img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-navigation/img/fae7688d6dd53de9.png?hl=ko" width=500, height=500/>
 
+</p>
 
 
